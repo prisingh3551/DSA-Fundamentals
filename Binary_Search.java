@@ -1,4 +1,4 @@
-public class Binary_Sort {
+public class Binary_Search {
     private static boolean isPresent(int arr[], int n)
     {
         int low = 0, high = arr.length;
